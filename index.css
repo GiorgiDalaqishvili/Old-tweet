@@ -1,0 +1,109 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Rubik', sans-serif;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 375px;
+    height: 1700px;
+    border: none;
+}
+
+#page1 {
+  border: none;
+  height: 666px;
+}
+
+.body {
+    background-color: #EDEDED;
+    border-radius: 5px;
+}
+
+header {
+    padding-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+img {
+   width: 127px;
+   height: 33.02px;
+   margin: auto 10px;
+}
+
+.myimage {
+    width: 34px;
+    height: 34px;
+    margin:auto 10px;
+    border-radius: 50%;
+}
+
+.mini-box {
+    display: flex;
+    flex-direction: row;
+}
+
+h4 {
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.myimage,.vangog-png {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
+
+#mini-box1 {
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.vangog01 {
+    padding-top: 0px;
+   width: 375px;
+   height: 375px;
+   margin-left: 0px;
+   cursor: pointer;
+}
+
+.icons {
+    width: 22.65px;
+    height: 22.65px;
+    font-weight: bold;
+    margin-top: 35.67px;
+    cursor: pointer;
+}
+ 
+
+.box {
+    margin-top: 10px;
+    border: none;
+    height: 22.13px;
+    width: 104.34px;
+    display:inline;
+}
+
+#likes-box {
+  margin-top: 10px; 
+  border: none;
+  font-weight: bold;
+}
+
+#page2 {
+    margin-top: 50px;
+}
